@@ -1,5 +1,6 @@
 # SitePrototype
-Course Exercise for Software Engineering 
+Group Course Exercise for Software Engineering 
+
 Written in HTMl with BootStrap
 
 
